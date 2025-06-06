@@ -78,12 +78,12 @@ section h3 {
 .participants-section {
   margin-top: 12px;
   padding: 10px;
-  background: #eef2fb;
+  background: var(--color-participants-bg);
   border-radius: 4px;
 }
 
 .participants-section strong {
-  color: #3949ab;
+  color: var(--color-participants-strong);
   display: block;
   margin-bottom: 6px;
 }
